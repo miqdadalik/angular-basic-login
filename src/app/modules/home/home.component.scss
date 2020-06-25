@@ -1,0 +1,13 @@
+.home-panel {
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    margin-top: -100px; /* Negative half of height. */
+    margin-left: -250px; /* Negative half of width. */
+    width: 420px;
+    height: 300px;
+    .user-avatar {
+        background-image: url('../../../assets/miqdad.png');
+        background-size: cover;
+    }
+}

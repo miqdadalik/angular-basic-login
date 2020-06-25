@@ -1,0 +1,18 @@
+{
+    "users": [{
+        "username": "miqdad",
+        "password": "miqdad",
+        "name": "Miqdad Ali",
+        "email": "miqdad@abc.com"
+    }, {
+        "username": "john",
+        "password": "john",
+        "name": "john",
+        "email": "john@abc.com"
+    }, {
+        "username": "hello",
+        "password": "hello",
+        "name": "hello",
+        "email": "hello@abc.com"
+    }]
+}
